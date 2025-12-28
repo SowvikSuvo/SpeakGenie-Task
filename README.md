@@ -61,7 +61,7 @@ The goal is to make learning more interactive and user-friendly.
 
 ---
 
-## 8. Brief Description of Folder Structure
+## 7. Brief Description of Folder Structure
 
 The project follows a clean and modular folder structure for better readability and maintainability.
 
@@ -80,7 +80,7 @@ The project follows a clean and modular folder structure for better readability 
 
 This structure ensures separation of concerns and supports scalable development.
 
-## 9. How to Run the Project
+## 7. How to Run the Project
 
 ### Step 1: Clone the Repository
 
