@@ -61,14 +61,6 @@ The goal is to make learning more interactive and user-friendly.
 
 ---
 
-## 7. How to Run the Project
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/your-username/speakgenie.git
-```
-
 ## Brief Description of Folder Structure
 
 The project follows a clean and modular folder structure for better readability and maintainability.
@@ -87,3 +79,11 @@ The project follows a clean and modular folder structure for better readability 
 - **public/** – Contains public assets and the main HTML file.
 
 This structure ensures separation of concerns and supports scalable development.
+
+## 7. How to Run the Project
+
+### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/SowvikSuvo/SpeakGenie-Task.git
+```
